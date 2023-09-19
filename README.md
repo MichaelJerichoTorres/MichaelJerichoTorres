@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MichaelJerichoTorres.            💼 Service Provider
+- 👋 Hi, I’m @MichaelJerichoTorres.           
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning XML
 - 💞️ I’m looking to collaborate on Coding 
