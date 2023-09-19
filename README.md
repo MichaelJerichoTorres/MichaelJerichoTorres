@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichaelJerichoTorres.           
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning XML
+- 🌱 I’m currently learning XML,Java, and CSS
 - 💞️ I’m looking to collaborate on Coding 
 - 📫 How to reach me mj31torres@gmail.com
 
